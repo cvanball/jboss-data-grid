@@ -1,6 +1,6 @@
-## Offload your database data into an in-memory data grid for fast processing made easy
+## Offload your database data into Red Hat JBoss Data Grid made easy
 
-This project is an example showing how to read data from a PostgreSQL database and put the data into a Red Hat JBoss Data Grid environment.
+This project is an example showing how to read data from a PostgreSQL database and put the data into a cache within a Red Hat JBoss Data Grid environment.
 
 ### Prerequisites
 
