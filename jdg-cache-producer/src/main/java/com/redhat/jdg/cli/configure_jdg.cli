@@ -1,0 +1,2 @@
+/subsystem=datagrid-infinispan/cache-container=local/configurations=CONFIGURATIONS/local-cache-configuration=productCacheCfg:add(start=EAGER)
+/subsystem=datagrid-infinispan/cache-container=local/local-cache=productCache:add(configuration=productCacheCfg)

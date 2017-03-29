@@ -1,0 +1,5 @@
+com/redhat/jdg/producer/repository/ProductRepository.class
+com/redhat/jdg/producer/cache/RemoteCacheManagerFactory.class
+com/redhat/jdg/producer/CacheDataProducer.class
+com/redhat/jdg/producer/db/DbConnectionFactory.class
+com/redhat/jdg/pojo/Product.class
