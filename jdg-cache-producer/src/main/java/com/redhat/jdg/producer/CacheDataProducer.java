@@ -19,6 +19,7 @@ import com.redhat.jdg.producer.repository.ProductRepository;
  * <code>ProtoBuf</code> format in <code>JBoss Data Grid</code>.
  * 
  * @author <a href="mailto:duncan.doyle@redhat.com">Duncan Doyle</a>
+ * @author <a href="mailto:cojan.van.ballegooijen@redhat.com">Cojan van Ballegooijen</a>
  */
 public class CacheDataProducer {
 
